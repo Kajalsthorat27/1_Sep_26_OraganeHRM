@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4541","@Regression @Sanity @Smoke @e2e Orange HRM Test cases","webkit","2026-09-01","passed","2026-09-01","","OrangeHRMTest.spec.js","",""
+"","8930","@Regression @Sanity @Smoke @e2e Orange HRM Test cases","webkit","2026-09-01","passed","2026-09-01","","OrangeHRM1.spec.js","",""
+"","62877","@Regression @Sanity @Smoke @e2e Orange HRM Test cases","firefox","2026-09-01","failed","2026-09-01","","OrangeHRMTest.spec.js","",""
+"","68000","@Regression @Sanity @Smoke @e2e Orange HRM Test cases","firefox","2026-09-01","failed","2026-09-01","","OrangeHRM1.spec.js","",""
+"","21194","@Regression @Sanity @Smoke @e2e Orange HRM Test cases","chromium","2026-09-01","passed","2026-09-01","","OrangeHRM1.spec.js","",""
+"","23933","@Regression @Sanity @Smoke @e2e Orange HRM Test cases","chromium","2026-09-01","passed","2026-09-01","","OrangeHRMTest.spec.js","",""
