@@ -36,7 +36,7 @@ pipeline
       {
         steps
           {
-              git url : "https://github.com/Kajalsthorat27/1_Sep_26_OraganeHRM.git"",
+              git url : "https://github.com/Kajalsthorat27/1_Sep_26_OraganeHRM.git",
               branch : "${params.BRANCH_NAME}"
           }
       }
